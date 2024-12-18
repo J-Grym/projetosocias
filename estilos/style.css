@@ -57,7 +57,7 @@ section#redes-sociais img {
 
 section#redes-sociais img:hover {
     border: 2px solid rgba(255, 255, 255, 0.607);
-    transform: translate(-3px, -3px);
+    transform: translate(-3px, -3px); /*atenção*/
     box-shadow: 5px 5px 10px black;
     transition: 0.5s;
 }
